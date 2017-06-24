@@ -39,7 +39,20 @@ followed.
 The solution is to implement an application that would become a personal-assistant to help solve all the problems and pains of the users. The target market of this application are such as students, workers (part-time / casual), housewives, retiree, and any individual that thinks this application would help.
 
 ## Application Run Down By Image Ilustraion
+![1](https://user-images.githubusercontent.com/22834712/27506226-9a4002c6-58f7-11e7-8e6c-ce556b28e7e4.jpg)
+####Figure 1: Application Startup 
 
+![2](https://user-images.githubusercontent.com/22834712/27506238-e54107ca-58f7-11e7-9977-46e46628a47d.jpg)
+####Figure 2: Application Menu 
+
+![3](https://user-images.githubusercontent.com/22834712/27506251-2828dc7a-58f8-11e7-8292-42e4007597f3.jpg)
+####Figure 3: Application In Action 
+
+![4](https://user-images.githubusercontent.com/22834712/27506256-4b274e3c-58f8-11e7-96cb-bb8d119bd83d.jpg)
+####Figure 4: Application CSV Records 
+
+![5](https://user-images.githubusercontent.com/22834712/27506274-78a8a8a6-58f8-11e7-83d0-680ff04d9ecb.jpg)
+####Figure 5: Application Future Development Work
 
 ## What's Next
 - develop Task List Template
